@@ -1,0 +1,7 @@
+interface:
+  display_name: "ペアプログラミング"
+  short_description: "ユーザーが実装し、Codexが案内とレビューを担当"
+  default_prompt: "$pair-programming を使って、承認済みの詳細プランを一つずつ進めてください。"
+
+policy:
+  allow_implicit_invocation: false
