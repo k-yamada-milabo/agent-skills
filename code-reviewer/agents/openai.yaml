@@ -3,5 +3,3 @@ interface:
   short_description: "要件適合性とコード品質を読み取り専用で厳密にレビューする"
   default_prompt: "$code-reviewer を使って、実装差分を要件と照合してレビューしてください。"
 
-policy:
-  allow_implicit_invocation: false

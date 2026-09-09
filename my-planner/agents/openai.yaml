@@ -3,5 +3,3 @@ interface:
   short_description: "docs/projectsのマスター計画と詳細実装計画を作成する"
   default_prompt: "$my-planner を使って、docs/projects 配下の実装計画を作成してください。"
 
-policy:
-  allow_implicit_invocation: false
